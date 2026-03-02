@@ -6,7 +6,7 @@ The data is by Luke Barrousse(Youtuber), which includes data about when the job 
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx)
 
-![Salary Dashboard](./Data_Jobs_Salary_Dashboard/Salary%20Dashboard.gif)
+![Salary Dashboard](./Data_Jobs_Salary_Dashboard/Salary%20Dashboard(1).gif)
 
 
 The following Excel skills were utilized for analysis:
