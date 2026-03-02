@@ -36,4 +36,4 @@ IF(
 
 
 
-Checkut the excel file.
+Checkut the excel file. Don't forget to get source files from resource folder.
